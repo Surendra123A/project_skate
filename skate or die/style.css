@@ -1,0 +1,41 @@
+.container{
+    padding: 4rem 2rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.jumbotron  {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.coolStuffWrapper{
+    margin-top: 20px;
+}
+
+button.coolStuffBtn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2em;
+}
